@@ -18,3 +18,7 @@
 
 ![Git logo](https://miro.medium.com/max/1400/0*jIyGQA6mkKZ8Rc2w.jpg)
 [Руководство по Git](https://github.com/cyberspacedk/Git-commands "Help")
+
+> **git branch** - display out branches
+
+> **git branch name** - create new branch
