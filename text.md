@@ -30,3 +30,5 @@
 >**git log --graph** - displays commit lists in graphs
 
 >**git log --pretty=format:"%h - %an, %ar : %s" -4** - show the last 4 commits with formatting of the output data
+
+>**git log -2** - показать последние 2 коммита в активной ветке 
