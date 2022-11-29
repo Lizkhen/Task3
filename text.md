@@ -26,3 +26,9 @@
 > **git merge branch_name** - combine two branches
 
 >**git checkout -b new_branch_name** - creating and transition to new branch.
+
+
+
+
+
+some unnecessary and incomprehensible text
