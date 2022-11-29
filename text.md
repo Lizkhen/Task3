@@ -28,3 +28,5 @@
 >**git checkout -b new_branch_name** - creating and transition to new branch.
 
 >**git log --graph** - displays commit lists in graphs
+
+>**git log --pretty=format:"%h - %an, %ar : %s" -4** - show the last 4 commits with formatting of the output data
