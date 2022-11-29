@@ -26,3 +26,5 @@
 > **git merge branch_name** - combine two branches
 
 >**git checkout -b new_branch_name** - creating and transition to new branch.
+
+>**git log --graph** - displays commit lists in graphs
