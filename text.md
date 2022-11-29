@@ -22,3 +22,5 @@
 > **git branch** - display out branches
 
 > **git branch name** - create new branch
+
+> **git merge branch_name** - combine two branches
