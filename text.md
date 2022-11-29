@@ -26,3 +26,9 @@
 > **git merge branch_name** - combine two branches
 
 >**git checkout -b new_branch_name** - creating and transition to new branch.
+
+
+
+
+
+>**git log -2** - показать последние 2 коммита в активной ветке 
