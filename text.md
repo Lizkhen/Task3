@@ -25,4 +25,4 @@
 
 > **git merge branch_name** - combine two branches
 
-> example text jhfgkjhkjfhgskjdfhskjdfhjfhkjfhgi
+>**git checkout -b new_branch_name** - creating and transition to new branch.
