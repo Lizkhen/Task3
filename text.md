@@ -32,3 +32,11 @@
 >**git log --pretty=format:"%h - %an, %ar : %s" -4** - show the last 4 commits with formatting of the output data
 
 >**git log -2** - show the last 2 commits in the active branch
+
+>**git clone Http..** - clone a remote repository to a directory of the same name
+
+>**git pull** - inject changes from a remote repository
+
+>**git push** - uploading the contents of a local repository to a remote repository
+
+>**pull request** - this is an application for merging code from different branches
